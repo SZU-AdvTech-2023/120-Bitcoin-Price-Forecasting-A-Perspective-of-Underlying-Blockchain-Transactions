@@ -1,0 +1,8 @@
+@article{REPO120,
+    author = "Guo, H. and Zhang, D. and Liu, S. and et al.",
+    journal = "Decision Support Systems",
+    pages = "113650",
+    title = "{Bitcoin Price Forecasting: A Perspective of Underlying Blockchain Transactions}",
+    volume = "151",
+    year = "2021"
+}
